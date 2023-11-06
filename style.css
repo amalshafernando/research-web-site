@@ -1,0 +1,41 @@
+.custom-ml-auto{
+    margin-left: auto;
+}
+.c_bg h5{
+    color: #000000b4;
+}
+.footer-data p{
+    color: rgba(128, 128, 128, 0.849);
+    margin-left: 20px;
+}
+.c_bg{
+    background-color: rgba(128, 128, 128, 0.185);
+}
+#links{
+    color: #807979; 
+    text-decoration: none; 
+}
+#links:hover{
+color: #000000;
+}
+.para{
+    color: rgba(128, 128, 128, 0.849);
+    margin-top: 1rem;
+    padding: 30px;
+    margin-bottom: 2rem;
+    margin-left: -40rem;
+}
+.img-handler img{
+    margin-right: 25rem;
+}
+.btn-custom{
+    align-items: center;
+    background-color: rgba(184, 25, 25, 0.877);
+    color: red;
+    
+}
+.card-body .btn-custom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
